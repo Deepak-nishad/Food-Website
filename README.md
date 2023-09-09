@@ -1,4 +1,4 @@
-# Food Website 🚀
+# Food Website (To run This project First clone the repository and the run command in terminal npm i ) 🚀
 
 
 # Parcel
